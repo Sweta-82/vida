@@ -1,0 +1,28 @@
+// Cute Developer Portfolio — Pastel Palette
+$base-dark-purple: #e74d8b;
+$base-purple: #f472a8;
+$base-purple-200: #fbb6d0;
+$base-pink: #fff0f5;
+$base-light-purple: #fff5f8;
+
+$base-dark-purple-2: #e74d8b;
+$base-purple-2: #f472a8;
+$base-purple-200-2: #fbb6d0;
+$base-pink-2: #fff0f5;
+$base-light-purple-2: #fff5f8;
+
+$base-black: #090909;
+$base-white: #fdfdfd;
+
+// Accent colors
+$mint: #b8e0d2;
+$lavender: #d6c0e8;
+$cream: #fef9ef;
+$coral: #ff8a80;
+
+// Mixins
+@mixin centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
